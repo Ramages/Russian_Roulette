@@ -1,7 +1,7 @@
 # Russian_Roulette
 A simple script that allows you to select a number between 1 and 6, if you guess (in)correctly, your computer has its essential files wiped
 
-This is a script that shouldn't be used unless you're fully prepared to loose everything on the machine you're running this script on.
+This is a script that shouldn't be used unless you're fully prepared to lose everything on the machine you're running this script on.
 
 All responsibility is with the individual running the script, this script can and will try to destroy your computer.
 
